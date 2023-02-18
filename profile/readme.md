@@ -1,1 +1,1 @@
-ok
+<img src="/images/iic.png">
