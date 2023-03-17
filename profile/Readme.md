@@ -2,7 +2,7 @@
 
 # Visit us here -> <br> ![https://www.iictmsl.com/](./images/webdesign.png)
 
-
+<!--
 # Members of the Tech Team ->
 <table><tbody><tr>
  <td align="center"><a href="https://in.linkedin.com/in/akgorain" target="_blank" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/6205151?v=4" alt="@AnkitKumarGorain" style="max-width:100%;" width="75px;"><br/>Ankit Kumar Gorain</a> </td>
@@ -20,4 +20,5 @@
  <td align="center"><a href="https://www.linkedin.com/in/kumar-aditya-0ab61b234" target="_blank" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/6205151?v=4" alt="@KumarAditya" style="max-width:100%;" width="75px;"><br/>Kumar Aditya</a> </td>
  <td align="center"><a href="https://www.linkedin.com/in/soumyata-sarkar-005793228" target="_blank" rel="nofollow"><img src="https://api.dicebear.com/5.x/lorelei/svg?seed=Tigger&backgroundColor=48cae4&radius=10" width="64" alt="@SoumyataSarkar" style="max-width:100%;" width="75px;"><br/>Soumyata Sarkar</a> </td></tr></tbody></table>
  
+!--> 
  <p align="center"><i> Thank you for visiting !</i></p>
